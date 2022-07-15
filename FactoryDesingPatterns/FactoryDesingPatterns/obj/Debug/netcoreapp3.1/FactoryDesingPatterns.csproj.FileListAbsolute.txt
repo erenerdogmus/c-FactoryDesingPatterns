@@ -1,0 +1,14 @@
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\bin\Debug\netcoreapp3.1\FactoryDesingPatterns.exe
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\bin\Debug\netcoreapp3.1\FactoryDesingPatterns.deps.json
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\bin\Debug\netcoreapp3.1\FactoryDesingPatterns.runtimeconfig.json
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\bin\Debug\netcoreapp3.1\FactoryDesingPatterns.runtimeconfig.dev.json
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\bin\Debug\netcoreapp3.1\FactoryDesingPatterns.dll
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\bin\Debug\netcoreapp3.1\FactoryDesingPatterns.pdb
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\obj\Debug\netcoreapp3.1\FactoryDesingPatterns.csproj.AssemblyReference.cache
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\obj\Debug\netcoreapp3.1\FactoryDesingPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\obj\Debug\netcoreapp3.1\FactoryDesingPatterns.AssemblyInfoInputs.cache
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\obj\Debug\netcoreapp3.1\FactoryDesingPatterns.AssemblyInfo.cs
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\obj\Debug\netcoreapp3.1\FactoryDesingPatterns.csproj.CoreCompileInputs.cache
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\obj\Debug\netcoreapp3.1\FactoryDesingPatterns.dll
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\obj\Debug\netcoreapp3.1\FactoryDesingPatterns.pdb
+C:\Users\ERENERDOGMUS\source\repos\FactoryDesingPatterns\FactoryDesingPatterns\obj\Debug\netcoreapp3.1\FactoryDesingPatterns.genruntimeconfig.cache
